@@ -1,0 +1,2 @@
+# CourserSelection
+Automatic course selection.
